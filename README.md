@@ -4,8 +4,8 @@ Internship experience in financial services and media research, skilled in inves
 Good communication and teamwork skills, with experience contributing to sustainability initiatives and quiz club activities.
 
 ## Education 
-MSc. Econometrics and Financial Technology – Cochin University of Science and Technology (2024–2026)
-BA Economics – Farook College (Autonomous), University of Calicut (2021–2024)
+#MSc. Econometrics and Financial Technology – Cochin University of Science and Technology (2024–2026)
+#BA Economics – Farook College (Autonomous), University of Calicut (2021–2024)
 
 ## Key Skills
 Data Analysis Tools: EViews, Gretl, Power BI, Microsoft Office
